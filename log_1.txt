@@ -1,0 +1,7 @@
+Start program
+Company: AMGEN INC has reached limitation, total: 1525 candidates, split into 3 parts.
+Company: AMGEN INC with split id = 3 still has reached limitation, total: 1128 candidates.
+Company: APPLE INC has reached limitation, total: 14534 candidates, split into 3 parts.
+Company: APPLE INC with split id = 2 still has reached limitation, total: 2355 candidates.
+Company: APPLE INC with split id = 3 still has reached limitation, total: 10969 candidates.
+Company: AUTOMATIC DATA PROCESSING has reached limitation, total: 3943 candidates, split into 3 parts.

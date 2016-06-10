@@ -1,0 +1,19 @@
+Start program
+Company: THOMSON-REUTERS CORP has reached limitation, total: 2945 candidates, split into 3 parts.
+Company: THOMSON-REUTERS CORP with split id = 3 still has reached limitation, total: 2087 candidates.
+Company: PROGRESS SOFTWARE CORP has no candidates.
+Company: EQUITY LIFESTYLE PROPERTIES has no candidates.
+Company: LIBBEY INC has no candidates.
+Company: BRINKS CO has no candidates.
+Company: KEY TECHNOLOGY INC has no candidates.
+Company: COSTCO WHOLESALE CORP has reached limitation, total: 2540 candidates, split into 3 parts.
+Company: COSTCO WHOLESALE CORP with split id = 3 still has reached limitation, total: 2155 candidates.
+Company: CASCADE BANCORP has no candidates.
+Company: AMERN EAGLE OUTFITTERS INC has reached limitation, total: 2047 candidates, split into 3 parts.
+Company: AMERN EAGLE OUTFITTERS INC with split id = 3 still has reached limitation, total: 1691 candidates.
+Company: PANTRY INC has no candidates.
+Company: RADISYS CORP has no candidates.
+Company: IRIDEX CORP has no candidates.
+Company: STAGE STORES INC has no candidates.
+Company: LITHIA MOTORS INC  -CL A has no candidates.
+Company: ALTAIR NANOTECHNOLOGIES INC has no candidates.

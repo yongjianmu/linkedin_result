@@ -1,0 +1,6 @@
+Start program
+Company: COLFAX CORP has no candidates.
+Company: MYREXIS INC has no candidates.
+Company: AMPIO PHARMACEUTICALS INC has no candidates.
+Company: ELECTROMED INC has no candidates.
+Finished successfully

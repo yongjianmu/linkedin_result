@@ -1,0 +1,14 @@
+Start program
+Company: CHARTER COMMUNICATIONS INC has reached limitation, total: 1591 candidates, split into 3 parts.
+Company: CHARTER COMMUNICATIONS INC with split id = 3 still has reached limitation, total: 1267 candidates.
+Company: MANAGEMENT NETWORK GROUP INC has no candidates.
+Company: MANAGEMENT NETWORK GROUP INC has no candidates.
+Company: HARRIS INTERACTIVE INC has no candidates.
+Company: WARREN RESOURCES INC has no candidates.
+Company: LKQ CORP has no candidates.
+Company: NGP CAPITAL RESOURCES CO has no candidates.
+Company: LEIDOS HOLDINGS INC has reached limitation, total: 1691 candidates, split into 3 parts.
+Company: LEIDOS HOLDINGS INC with split id = 3 still has reached limitation, total: 1444 candidates.
+Company: ALPHATEC HOLDINGS INC has no candidates.
+Company: VMWARE INC -CL A has reached limitation, total: 2268 candidates, split into 3 parts.
+Company: VMWARE INC -CL A with split id = 3 still has reached limitation, total: 1603 candidates.

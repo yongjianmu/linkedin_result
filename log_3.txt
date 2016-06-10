@@ -1,0 +1,12 @@
+Start program
+Company: 3M CO has reached limitation, total: 2519 candidates, split into 3 parts.
+Company: 3M CO with split id = 3 still has reached limitation, total: 1864 candidates.
+Company: PG&E CORP has reached limitation, total: 2052 candidates, split into 3 parts.
+Company: PG&E CORP with split id = 3 still has reached limitation, total: 1416 candidates.
+Company: PENNEY (J C) CO has reached limitation, total: 3164 candidates, split into 3 parts.
+Company: PENNEY (J C) CO with split id = 3 still has reached limitation, total: 2565 candidates.
+Company: STRYKER CORP has reached limitation, total: 2120 candidates, split into 3 parts.
+Company: STRYKER CORP has no candidates, split id = 1
+Company: STRYKER CORP with split id = 3 still has reached limitation, total: 1453 candidates.
+Company: SUNTRUST BANKS INC has reached limitation, total: 2256 candidates, split into 3 parts.
+Company: SUNTRUST BANKS INC with split id = 3 still has reached limitation, total: 1785 candidates.

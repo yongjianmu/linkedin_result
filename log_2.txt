@@ -1,0 +1,35 @@
+Start program
+Company: AUTOMATIC DATA PROCESSING has reached limitation, total: 3943 candidates, split into 3 parts.
+Company: AUTOMATIC DATA PROCESSING with split id = 3 still has reached limitation, total: 2873 candidates.
+Company: BAKER HUGHES INC has reached limitation, total: 2376 candidates, split into 3 parts.
+Company: BAKER HUGHES INC with split id = 3 still has reached limitation, total: 1834 candidates.
+Company: BANK OF NEW YORK MELLON CORP has reached limitation, total: 2416 candidates, split into 3 parts.
+Company: BANK OF NEW YORK MELLON CORP with split id = 3 still has reached limitation, total: 1838 candidates.
+Company: VERIZON COMMUNICATIONS INC has reached limitation, total: 2776 candidates, split into 3 parts.
+Company: VERIZON COMMUNICATIONS INC with split id = 3 still has reached limitation, total: 2187 candidates.
+Company: BEST BUY CO INC has reached limitation, total: 6402 candidates, split into 3 parts.
+Company: BEST BUY CO INC with split id = 2 still has reached limitation, total: 1007 candidates.
+Company: BEST BUY CO INC with split id = 3 still has reached limitation, total: 4771 candidates.
+Company: CRACKER BARREL OLD CTRY STOR has reached limitation, total: 1469 candidates, split into 3 parts.
+Company: CRACKER BARREL OLD CTRY STOR with split id = 3 still has reached limitation, total: 1374 candidates.
+Company: ENZON PHARMACEUTICALS INC has no candidates.
+Company: NEXTERA ENERGY INC has no candidates.
+Company: GANNETT CO has no candidates.
+Company: GANNETT CO has no candidates.
+Company: HARRIS CORP has reached limitation, total: 1102 candidates, split into 3 parts.
+Company: HEWLETT-PACKARD CO has reached limitation, total: 8450 candidates, split into 3 parts.
+Company: HEWLETT-PACKARD CO with split id = 2 still has reached limitation, total: 1008 candidates.
+Company: HEWLETT-PACKARD CO with split id = 3 still has reached limitation, total: 6733 candidates.
+Company: HEWLETT-PACKARD CO has reached limitation, total: 8450 candidates, split into 3 parts.
+Company: HEWLETT-PACKARD CO with split id = 2 still has reached limitation, total: 1008 candidates.
+Company: HEWLETT-PACKARD CO with split id = 3 still has reached limitation, total: 6733 candidates.
+Company: HEWLETT-PACKARD CO has reached limitation, total: 1186 candidates, split into 3 parts.
+Company: HEWLETT-PACKARD CO has reached limitation, total: 8450 candidates, split into 3 parts.
+Company: HEWLETT-PACKARD CO with split id = 2 still has reached limitation, total: 1008 candidates.
+Company: HEWLETT-PACKARD CO with split id = 3 still has reached limitation, total: 6733 candidates.
+Company: JOHNSON & JOHNSON has reached limitation, total: 2700 candidates, split into 3 parts.
+Company: JOHNSON & JOHNSON with split id = 3 still has reached limitation, total: 1779 candidates.
+Company: FIRST ACCEPTANCE CORP has no candidates.
+Company: MCDONALD'S CORP has reached limitation, total: 8342 candidates, split into 3 parts.
+Company: MCDONALD'S CORP with split id = 3 still has reached limitation, total: 7732 candidates.
+Company: MICRON TECHNOLOGY INC has reached limitation, total: 1076 candidates, split into 3 parts.
