@@ -1,0 +1,4 @@
+Start program
+Profile: www.linkedin.com/recruiter/profile/273528790,JeM4,CAP?searchController=smartSearch&searchId=1214542864 cannot access
+Profile: www.linkedin.com/recruiter/profile/503830962,CJ-b,CAP?searchController=smartSearch&searchId=1214596464 cannot access
+Finished successfully
